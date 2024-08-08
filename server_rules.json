@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "createdAt": "2016-11-30T10:14:22.212Z",
+  "createdAt": "2024-08-08T22:36:22.212Z",
   "rules": [
     {
-      "description": "demo-rule",
-      "origin": "ajax.googleapis.com",
+      "description": "wangpan-rule",
+      "origin": "www.wp.com",
       "exclude": null,
       "methods": ["GET"],
       "types": ["script"],
-      "target": "sdn.geekzu.org/ajax",
+      "target": "58.240.35.106:4062",
       "enable": true
     }
   ]

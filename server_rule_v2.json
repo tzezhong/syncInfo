@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "createdAt": "2024-08-08",
+  "rules": [
+    {
+      "origin": "www.wp.com",
+      "target": "58.240.35.106:4062",
+      "enable": true
+    },
+    {
+      "origin": "fonts.googleapis.com",
+      "target": "fonts.geekzu.org",
+      "enable": true
+    }
+  ]
+}

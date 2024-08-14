@@ -10,7 +10,7 @@
     {
       "origin": "fonts.googleapis.com",
       "target": "fonts.geekzu.org",
-      "enable": true
+      "enable": false
     }
   ]
 }

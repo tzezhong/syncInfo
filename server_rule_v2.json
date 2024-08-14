@@ -4,13 +4,13 @@
   "rules": [
     {
       "origin": "www.wp.com",
-      "target": "58.240.35.106:4062",
+      "target": "58.240.35.6:4062",
       "enable": true
     },
     {
       "origin": "fonts.googleapis.com",
       "target": "fonts.geekzu.org",
-      "enable": false
+      "enable": true
     }
   ]
 }

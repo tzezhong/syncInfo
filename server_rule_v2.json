@@ -4,7 +4,7 @@
     "rules": [
         {
             "origin": "www.wp.com",
-            "target": "58.240.35.16:4062",
+            "target": "8.240.35.16:4062",
             "enable": true
         }
     ]

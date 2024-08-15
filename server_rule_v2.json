@@ -3,13 +3,13 @@
     "createdAt": "2024-08-08",
     "rules": [
         {
-            "origin": "www.wp.com",
-            "target": "58.240.35.6:4062",
+            "origin": "www.yc.com",
+            "target": "58.240.35.163:4061",
             "enable": true
         },
         {
-            "origin": "fonts.googleapis.com",
-            "target": "fonts.geekzu.org",
+            "origin": "www.wp.com",
+            "target": "58.240.35.163:4062",
             "enable": true
         }
     ]

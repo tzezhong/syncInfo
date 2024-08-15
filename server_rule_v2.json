@@ -3,13 +3,8 @@
     "createdAt": "2024-08-08",
     "rules": [
         {
-            "origin": "www.yc.com",
-            "target": "58.240.35.163:4061",
-            "enable": true
-        },
-        {
             "origin": "www.wp.com",
-            "target": "58.240.35.163:4062",
+            "target": "58.240.35.16:4062",
             "enable": true
         }
     ]

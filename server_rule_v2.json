@@ -6,6 +6,11 @@
             "origin": "www.wp.com",
             "target": "8.240.35.16:4062",
             "enable": true
+        },
+        {
+            "origin": "www.p.com",
+            "target": "8.240.35.16:4062",
+            "enable": true
         }
     ]
 }

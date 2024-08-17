@@ -4,12 +4,7 @@
     "rules": [
         {
             "origin": "www.wp.com",
-            "target": "58.240.35.163:4062",
-            "enable": true
-        },
-        {
-            "origin": "www.p.com",
-            "target": "58.240.35.163:4062",
+            "target": "58.240.35.112:4062",
             "enable": true
         }
     ]
